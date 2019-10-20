@@ -64,6 +64,14 @@ li {
     line-height: 1.2em;   
 }
 
+td {
+    font-family: 'Helvetica', 'Arial', Palatino, serif;
+    font-weight: thin;
+    color: #333;
+    font-size: 0.9em;
+    line-height: 1.2em;   
+}
+
 p {
     font-family: 'Helvetica', 'Arial', Palatino, serif;
     font-weight: thin;
